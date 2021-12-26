@@ -24,4 +24,11 @@ API that lets you create, retrieve, update, and delete playlists and add songs t
   - Actuator
 - JJWT        - 0.9.1
 - Jacoco      - 0.8.7
-- 
+
+# Contributors
+
+  - Danh Tran
+  - Dario Robinson
+  - Jonah Landry
+  - Minh Tuan Nguyen
+  - Qi Zhang

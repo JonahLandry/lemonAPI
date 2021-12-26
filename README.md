@@ -26,8 +26,10 @@ API that lets you create, retrieve, update, and delete playlists and add songs t
 - Jacoco      - 0.8.7
 
 # Getting Started
-
-```server:
+  Create an application.yml file that resides in the resources folder with the given specs.
+  
+```
+server:
   port: 5000
   servlet:
     context-path: /lemon

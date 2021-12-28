@@ -1,5 +1,5 @@
 # lemonAPI
-API end for the LemonUI discord bot.
+API end for the LemonUI and Lemonwire discord bot.
 
 # Overview
 

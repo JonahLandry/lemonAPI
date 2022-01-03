@@ -27,6 +27,7 @@ API that lets you create, retrieve, update, and delete playlists and add songs t
 
 # Setup
 
+- Create a application.yml file under src/main/resources with these configs
 ```
 server:
   port: 5000

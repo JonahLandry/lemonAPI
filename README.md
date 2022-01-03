@@ -25,6 +25,32 @@ API that lets you create, retrieve, update, and delete playlists and add songs t
 - JJWT        - 0.9.1
 - Jacoco      - 0.8.7
 
+# Setup
+
+```
+server:
+  port: 5000
+  servlet:
+    context-path: /lemon
+
+spring:
+  application:
+    name: lemon-api
+  datasource:
+    driver-class-name: Database Driver
+    url: Database URL
+    username: Database username
+    password: Database password
+  jpa:
+    database-platform: Database dialect
+    show-sql: true
+    hibernate:
+      ddl-auto: create-drop
+
+jwt:
+  secret: Anything here to secretly hash your Auth token
+```
+
 # Contributors
 
   - Danh Tran
